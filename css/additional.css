@@ -1,0 +1,23 @@
+.slid {
+	border-radius: 25px;
+}
+.platinum__slid {
+	padding: 20px;
+}
+.slid.shadow {
+    box-shadow: 0px 0px 27px rgb(0, 0, 0);
+    transition: box-shadow .3s ease 0s;
+}
+.subtitle {
+	margin: 0 auto;
+    margin-bottom: 4.375rem;
+    width: 70%;
+    color: #606060;
+    font-size: 20px;
+    font-weight: 300;
+    text-align: center;
+}
+.conditions__icon {
+    margin-right: 1.5625rem;
+    vertical-align: middle;
+}
